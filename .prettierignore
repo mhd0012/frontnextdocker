@@ -1,0 +1,11 @@
+# Ignore artifacts:
+build
+coverage
+.next
+
+
+.gitlab-ci.yml
+Dockerfile
+docker-compose.yaml
+package-lock.json
+package.json
